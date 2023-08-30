@@ -11,7 +11,7 @@
 ```
 git clone git clone https://github.com/ultrasecurity/Storm-Breaker`
 ```
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/ace4ae91-69fd-492b-a6d0-c30e014ce78c)
+![image](https://github.com/stellados53/Storm-Breaker/assets/142677726/b62c5f84-9ecb-4b0e-b4f3-def855c10bd8)
 
 - now,
 ```
@@ -25,7 +25,7 @@ cd /opt/Storm-Breaker
 ```
 sudo bash install.sh
 ```
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/5a9ecd51-8190-4108-959a-58467fa60d7a)
+![Screenshot 2023-08-30 033231](https://github.com/stellados53/Storm-Breaker/assets/142677726/7e1e089d-7d32-41b7-bd9c-f26ecaba3fb6)
 
 - now,
 ```
@@ -35,8 +35,7 @@ sudo python3 -m pip install -r requirements.txt
 ```
 python3 st.py 
 ```
-
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/5758a62d-33e0-4e63-9680-9b941c912ee5)
+![Screenshot 2023-08-30 033207](https://github.com/stellados53/Storm-Breaker/assets/142677726/5a0ebad8-4bfe-4491-845b-b9906ed0c088)
 
 <h3 align="center">...</h3>  
 
@@ -53,7 +52,7 @@ https://ngrok.com/download
 - then click `x84-64`.  
 - click on `download`.
 
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/cb71457a-fac4-40a7-8618-108ca9e3f1ba)
+![Screenshot 2023-08-30 034001](https://github.com/stellados53/Storm-Breaker/assets/142677726/c0afc280-daad-42e9-8284-e45129fa3b37)
 
 <h3 align="center">...</h3>  
 
@@ -70,7 +69,7 @@ sudo tar xvzf ~/Downloads/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
 - Make sure that the account has to be __verified__.
 - Now there we can see a step called "connect you account" and there exists a unique command line given below.
 
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/ebc715e8-5f93-4724-b819-079318108d43)
+![image](https://github.com/stellados53/Storm-Breaker/assets/142677726/c635fa5b-63c8-43ab-83a2-ec75bc2c7328)
 
 - Copy the command and paste it your terminal and then click  `enter`.
 - Now run open terminal and run `ngrok http 2525`.
@@ -78,7 +77,7 @@ sudo tar xvzf ~/Downloads/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
 now comes most exiting part...
 - Copy the link given by your root terminal and open it in the firefox
 
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/b727cc2e-032f-44c1-9ce5-a796b99a9918)
+![Screenshot 2023-08-30 034422](https://github.com/stellados53/Storm-Breaker/assets/142677726/73bc7a5b-510c-4fb4-99c9-1d0908443e8f)
 
 - A popup or the website appear for the login
 
@@ -88,7 +87,7 @@ now comes most exiting part...
 - The links given are your links that can be sent to the people
 to know their location or to access their microphones or cameras😉.
 
-![image](https://github.com/stellados53/StromBreaker/assets/142677726/0ce0fba4-69cc-44e0-9c79-b040d40add6a)
+![image](https://github.com/stellados53/Storm-Breaker/assets/142677726/eb01fd98-38f4-459f-83bb-c6e201aaa3fb)
 
 - To look the images or the audio files...
 - Open your file system > opt > Storm-Breaker > storm-web > images...

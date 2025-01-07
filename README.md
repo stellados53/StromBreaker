@@ -9,7 +9,7 @@
 - run `cd /opt/`.
 - now, 
 ```
-git clone git clone https://github.com/ultrasecurity/Storm-Breaker`
+git clone https://github.com/ultrasecurity/Storm-Breaker
 ```
 ![image](https://github.com/stellados53/Storm-Breaker/assets/142677726/b62c5f84-9ecb-4b0e-b4f3-def855c10bd8)
 
